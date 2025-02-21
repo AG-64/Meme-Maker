@@ -5,4 +5,4 @@ Sorry for my bad english, im russian and i dont know english very well.
 P.S. watermark can be disabled in settings
 
 
-This program made in Clickteam Fusion 2.5 Developer. I publish MFA file so you can make your own Meme Studio.
+This program made in Clickteam Fusion 2.5 Developer. I publish MFA file so you can make your own Meme Maker.
